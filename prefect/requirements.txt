@@ -1,0 +1,9 @@
+tensorflow
+torch
+transformers
+datasets
+scikit-learn
+pandas
+prefect
+docker
+jupyter
