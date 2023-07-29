@@ -1,8 +1,11 @@
 mlflow
 jupyter
-scikit-learn==1.2.1
+scikit-learn
 pandas
 seaborn
 hyperopt
 xgboost
 fastparquet
+openai
+langchain[docarray]
+tiktoken
